@@ -1,6 +1,6 @@
 [web]
-192.168.22.23
-192.168.22.23
+node1
+node2
 
 [database]
 node3
